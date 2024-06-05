@@ -56,7 +56,7 @@ function NavBar() {
       <a href="/">
         <img
           className="logo"
-          src="/src/assets/images/nebula-logo.svg"
+          src="../src/assets/images/nebula-logo.svg"
           alt="logo nebula"
         />
       </a>
@@ -151,7 +151,7 @@ function NavBar() {
               className="language"
               onClick={() => handleChangeLanguage("Alien Sans Latin basic")}
             >
-              <img src=".\src\assets\images\Alien-flag.png" alt="" />
+              <img src="..\assets\images\Alien-flag.png" alt="" />
             </button>
           </li>
         </ul>
