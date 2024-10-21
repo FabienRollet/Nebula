@@ -1,7 +1,7 @@
 @use "./app.scss" as *;
 
 .error404Body {
-  background-image: url(../assets/images/wormhole.jpg);
+  background-image: url(/assets/wormhole.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
