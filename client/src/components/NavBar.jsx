@@ -56,7 +56,7 @@ function NavBar() {
       <a href="/">
         <img
           className="logo"
-          src="../src/public/nebula-logo.svg"
+          src="/assets/nebula-logo.svg"
           alt="logo nebula"
         />
       </a>
@@ -69,17 +69,17 @@ function NavBar() {
         >
           <img
             className={burgerClass}
-            src="/src/public/rectangle-Nav.svg"
+            src="/assets/rectangle-Nav.svg"
             alt=""
           />
           <img
             className={burgerClass}
-            src="/src/public/rectangle-Nav.svg"
+            src="/assets/rectangle-Nav.svg"
             alt=""
           />
           <img
             className={burgerClass}
-            src="/src/public/rectangle-Nav.svg"
+            src="/assets/rectangle-Nav.svg"
             alt=""
           />
         </button>
@@ -141,7 +141,7 @@ function NavBar() {
               className="language"
               onClick={() => handleChangeLanguage("Varela Round, sans-serif")}
             >
-              <img src=".\src\public/British-flag.png" alt="" />
+              <img src="/assets/British-flag.png" alt="" />
             </button>
           </li>
           <li>
@@ -151,7 +151,7 @@ function NavBar() {
               className="language"
               onClick={() => handleChangeLanguage("Alien Sans Latin basic")}
             >
-              <img src="src/public/Alien-flag.png" alt="" />
+              <img src="/assets/Alien-flag.png" alt="" />
             </button>
           </li>
         </ul>

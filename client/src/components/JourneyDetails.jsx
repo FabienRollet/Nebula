@@ -44,7 +44,7 @@ export default function JourneyDetails() {
           <a href=" # " onClick={handleModifyClick}>
             Modify
             <img
-              src="src/assets/images/ModifyIcon.svg"
+              src="/assets/ModifyIcon.svg"
               alt="modify your informations"
             />
           </a>

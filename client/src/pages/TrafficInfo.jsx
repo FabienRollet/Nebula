@@ -34,7 +34,7 @@ export default function TrafficInfo() {
     <main className="trafficPage">
       <h1>Traffic informations</h1>
       <img
-        src="\src\assets\images\map.png"
+        src="/assets/map.png"
         alt="Network of the available systems"
       />
       <figcaption>Network of the available systems</figcaption>

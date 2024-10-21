@@ -19,7 +19,7 @@ function Footer() {
         aria-label="link to Discord"
       >
         <img
-          src="/src/assets/images/discord-icon-svgrepo-com.svg"
+          src="/assets/discord-icon-svgrepo-com.svg"
           alt="icon discord"
         />
       </a>
@@ -30,7 +30,7 @@ function Footer() {
         rel="noreferrer"
         aria-label="link to Slack"
       >
-        <img src="/src/assets/images/slack-tile.svg" alt="icon slack" />
+        <img src="/assets/slack-tile.svg" alt="icon slack" />
       </a>
       <p>
         The images used do not belong to us, they come from the Star-Citizen
