@@ -60,7 +60,7 @@ footer {
   margin-top: 2rem;
 }
 body {
-  background-image: url("/src/assets/images/imageFondMobil.png");
+  background-image: url("/assets/imageFondMobil.png");
   background-size: cover;
   background-position: bottom;
   background-attachment: fixed;
@@ -108,7 +108,7 @@ button:hover {
 }
 @media screen and (min-width: 992px) {
   body {
-    background-image: url("/src/assets/images/imageFontDesk.png");
+    background-image: url("/assets/imageFontDesk.png");
   }
   .spline {
     margin-top: -1rem;
